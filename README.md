@@ -108,8 +108,8 @@ Example:
 const connection = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "mahesh7668bhatt",
-  database: "delta_user",
+  password: "my_password",
+  database: "my_database_name",
 });
 ```
 
